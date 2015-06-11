@@ -1,0 +1,15 @@
+#DATABASE.YML FILE TEMPLATE
+
+development:
+  adapter: postgresql
+  database: rb1_development
+  user: postgres
+  password: password
+  host: localhost
+
+test:
+  adapter: postgresql
+  database: rb1_test
+  user: postgres
+  password: password
+  host: localhost
