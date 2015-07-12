@@ -1,28 +1,7 @@
-== README
+This is a rails application that I made following a Mackenzie child tutorial on Youtube. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I did name the buttons in reverse so it might be hard to read for some but it was never intended to be viewed by anyone other than me as far as using it goes. 
 
-Things you may want to cover:
+It has a lot of validations built into it but it's almost the same thing as the raddit and blog page. This is might be the best version of those two pages because it allows for pictures and has an object with two more objects that belong to it and most of the routes and buttons are working. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+It's very basic in design and uses bootstrap... I kinda like it because I remember feeling very good about myself once I got it into the state it's in right now albeit it is quite basic. 
